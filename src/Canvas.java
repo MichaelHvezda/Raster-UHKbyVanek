@@ -2,13 +2,9 @@
 
 
 
-import io.vavr.Tuple2;
+
 import rasterdata.*;
-
 import org.jetbrains.annotations.NotNull;
-
-import snakeTelo.*;
-
 import transforms.*;
 
 import java.awt.*;
